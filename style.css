@@ -18,7 +18,7 @@ img{
     color: whitesmoke;
     position: absolute;
     text-align: center;
-    top: 180px;
+    top: 220px;
     width: 100%;
     font-size: 4rem;
 }
@@ -51,4 +51,7 @@ img{
 .card-text{
     text-align: center;
     color: whitesmoke;
+}
+.column-image{
+    margin-top: 20px;
 }
